@@ -1,3 +1,5 @@
+#include <cstdint>
+
 
 
 /*
@@ -96,14 +98,40 @@ C++ step → new GameState
 
 
 
+const int  MAX_PLAYERS = 8;
 
 
-
-//
+//This will be our game, anytime anything new happens we just change this
 struct GameState {
+
+    //Players and their cards,
+    uint8_t
+
+
+    //makeshift stack just push stuff then pop
+    //every turn we iterate through the stack
+    uint8_t stack[MAX_PLAYERS]
+
+
+
+
+    uint8_t current_turn;
 
     
 
 
-
+    GameState(uint8_t player_count) : current_turn(0), 
 };
+
+
+
+
+
+
+//Methods to implement:
+/*
+    - Lets start off with the easiest one, someone does income, (whos turn is next, what happens to their coins?)
+    
+
+
+*/
