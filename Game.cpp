@@ -9,9 +9,15 @@ TURN BASED GAME
 A. Any Turn Counter Actions
 0 : don't challenge other opponent
 1 : challenge other opponent
+*/
+//CA -> Counter Actions
+enum Any_Turn_CA : uint8_t {
+    NO_CHALLENGE,
+    CHALLENGE
+};
 
 
-
+/*
 B. Your turn Actions
 0 : Income take 1
 1 : Foreign aid take 2
@@ -20,15 +26,31 @@ B. Your turn Actions
 4 : Steal 2 coins from another player
 5 : Exchange 2 coins from court
 6 : Assasinate with 3 coins
+*/
+//A -> Actions
+enum Your_Turn_A : uint8_t {
+    INCOME,
+    FOREIGN,
+    COUP,
+    TAX,
+    STEAL,
+    EXCHANGE,
+    ASSASINATE
+};
 
 
+/*
 C. Character Counter Actions 
 0 : block stealing (when someone steals from you special circumstance)
 1 : Contessa someones assasination, only open if youve been asssasinated (Special circumstances)
 2 : block foreign aid (when someone does foreign aid)
-
-
 */
+//CA -> Counter Actions
+enum Character_CA : uint8_t {
+    BLOCK_STEAL,
+    BLOCK_FOREIGN,
+    BLOCK_ASSASIN
+}
 
 
 
@@ -51,15 +73,6 @@ So essentially C++ will handle
 */
 
 
-
-//0 implies no card
-//1-5 implies 
-// 1 : duke
-// 2 : captain
-// 3 : Ambassador
-// 4 : Assasin
-// 5 : Contessa
-using Card = uint8_t;
 
 
 
@@ -97,30 +110,50 @@ C++ step → new GameState
 
 
 
-
+//just set this 
 const int  MAX_PLAYERS = 8;
 
 
 //This will be our game, anytime anything new happens we just change this
 struct GameState {
 
+
     //Players and their cards,
-    uint8_t
+    //0 implies no card
+    //1-5 implies 
+    // 1 : duke
+    // 2 : captain
+    // 3 : Ambassador
+    // 4 : Assasin
+    // 5 : Contessa
+    uint8_t card_1[MAX_PLAYERS];
+    uint8_t card_2[MAX_PLAYERS];
+
+
+    //amount of money each player gets
+    uint8_t money[MAX_PLAYERS] = {0};
+
+
 
 
     //makeshift stack just push stuff then pop
     //every turn we iterate through the stack
-    uint8_t stack[MAX_PLAYERS]
+    uint8_t stack[MAX_PLAYERS];
 
 
 
+    //Whos turn it is at any give time
+    uint8_t action_turn;
 
-    uint8_t current_turn;
-
+    //whos turn is it to challenge
+    uint8_t challenge_turn;
     
 
+    uint8_t player_count;
 
-    GameState(uint8_t player_count) : current_turn(0), 
+
+    //we only need player count to start the game
+    GameState(uint8_t num_players) : player_count(num_players), action_turn(0), challenge_turn(1) {} 
 };
 
 
@@ -130,8 +163,83 @@ struct GameState {
 
 //Methods to implement:
 /*
-    - Lets start off with the easiest one, someone does income, (whos turn is next, what happens to their coins?)
-    
+    - Implement Blocking
+    - Implement Challenges
+    - 
 
 
 */
+
+
+
+
+///////////////////////////////////////////////////////////////
+////////////////  MONEY METHODSSSS ////////////////////////////
+////////////////////////////////////////////////////////////////
+//All that happens is the turn changes, and the player gets 1 dolla
+void income() {
+    
+    //whoevers action turn it is they just go,
+    money[action_turn] += 1;
+    action_turn++;
+    challenge_turn++;
+}
+
+
+void foreign_aid() {
+
+    if(!block()) {
+        //whoevers action turn it is they just go,
+        money[action_turn] += 2;
+    }
+
+    action_turn++;
+    challenge_turn++;
+    
+}
+
+
+void tax() {
+
+    if(!challenge()) {
+        //whoevers action turn it is they just go,
+        money[action_turn] += 3;
+    }
+
+    action_turn++;
+    challenge_turn++;
+
+}
+/////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+/*
+This method should essentially ask every player if they want to block or not
+*/
+bool block(Your_Turn_A action) {
+
+    //we use action to tell the other player what action was just made,
+    //then ask if they want to block
+
+}
+
+
+
+
+
+/*
+Ask every player if they want to challenge or not
+*/
+bool challenge(Your_Turn_A action) {
+
+    //we use action to tell the other player what action was just made,
+    //then ask if they want to challenge
+
+}
