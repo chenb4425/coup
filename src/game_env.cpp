@@ -6,6 +6,7 @@
 namespace py = pybind11;
 
 //I barely understand how this works
+//however we can do default parameters in the bindings, instead of in the actual function
 PYBIND11_MODULE(game_env, m) {
     py::class_<GameState>(m, "GameState")
         .def(py::init<>())

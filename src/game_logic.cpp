@@ -12,6 +12,34 @@
 
 
 
+
+void reset(GameState* game, const uint8_t num_players,                //init how many player we will ahve
+                            const uint8_t (&deck)[DECK_SIZE]
+                            const uint8_t (&money_init)[MAX_PLAYERS],                //mostly used for mock testing stuff 
+                            const uint8_t (&c1)[MAX_PLAYERS],                        //Array for first card they have enforced as size MAX_PLAYERS
+                            const uint8_t (&c1)[MAX_PLAYERS])                        //Array for second card they have enforced as size MAX_PLAYERS
+                            {
+    game->action_turn = 0;
+    game->player_count = num_players;
+
+    //copy all initial money down from python
+    std::memcpy(game->money, money_init, MAX_PLAYERS * sizeof(uint8_t));
+
+    //copy all cards given from python
+    std::memcpy(game->player1_cards, c1, MAX_PLAYERS * sizeof(uint8_t));
+    std::memcpy(game->player2_cards, c2, MAX_PLAYERS * sizeof(uint8_t));
+    
+}
+
+
+//just does modulo on turns
+void next_turn(GameState* game) {
+
+}
+
+
+
+
 ///////////////////////////////////////////////////////////////
 ////////////////  MONEY METHODSSSS ////////////////////////////
 ////////////////////////////////////////////////////////////////

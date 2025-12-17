@@ -2,6 +2,7 @@
 #define GAME_LOGIC_H
 
 #include <cstdint>
+#include <cstring>
 
 
 /*
@@ -113,7 +114,8 @@ C++ step → new GameState
 
 
 //just set this 
-const int  MAX_PLAYERS = 8;
+const int MAX_PLAYERS = 5;
+const int DECK_SIZE = 15 - MAX_PLAYER*2;
 
 
 //This will be our game, anytime anything new happens we just change this
@@ -131,52 +133,30 @@ struct GameState {
     uint8_t card_1[MAX_PLAYERS];
     uint8_t card_2[MAX_PLAYERS];
 
-
     //amount of money each player gets
-    uint8_t money[MAX_PLAYERS] = {0};
-
-
-
-
-    //makeshift stack just push stuff then pop
-    //every turn we iterate through the stack
-    uint8_t stack[MAX_PLAYERS];
-
-
+    uint8_t money[MAX_PLAYERS];
 
     //Whos turn it is at any give time
     uint8_t action_turn;
-
-    //whos turn is it to challenge
-    uint8_t challenge_turn;
     
-
     uint8_t player_count;
-
-
-    //we only need player count to start the game
-    GameState(uint8_t num_players) : player_count(num_players), action_turn(0), challenge_turn(1) {} 
 };
 
 
 
 
 //Apparently constructors are slow, and we want to reset the game state every iteration for training so -->
-void reset(GameState* s, uint8_t num_players);
+void reset(GameState* game, uint8_t num_players);
 
+void income(GameState* game);
 
+void foreign_aid(GameState* game);
 
+void tax(GameState* game);
 
+bool block(GameState* game, Your_Turn_A action);
 
-//Methods to implement:
-/*
-    - Implement Blocking
-    - Implement Challenges
-    - 
-
-
-*/
-
+bool challenge(GameState* game, Your_Turn_A action);
 
 
 
