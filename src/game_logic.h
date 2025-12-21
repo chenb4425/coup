@@ -2,164 +2,147 @@
 #define GAME_LOGIC_H
 
 #include <cstdint>
-#include <cstring>
 
 
 /*
-TURN BASED GAME
+An example would be if we had 3 players, and player 1 does tax
+Player_1 options --> (ALL TURNACTIONS)
+declare(game, TAX, target=0)
+Player_2 options --> (Challenge Player_1, NONE)
+declare(game, NONE, target=0) --> increment to next potential challenger
+Player_3 options --> (Challenge Player_1, NONE)
+declare_challenge(game); --> Looks at "game->pending_action_player"  and looks at his cards, if one of them corresponds to the action then good else he chooses which one to discard
 
-#these will appear every turn
-A. Any Turn Counter Actions
-0 : don't challenge other opponent
-1 : challenge other opponent
+
+After a block occurs it must be immediatedly resolved, and then people can continue to block
+After a challenge occurs it must be immediatedly resolved then turn goes back to last user
+
 */
-//CA -> Counter Actions
-enum Any_Turn_CA : uint8_t {
-    NO_CHALLENGE,
-    CHALLENGE
-};
 
 
-/*
-B. Your turn Actions
-0 : Income take 1
-1 : Foreign aid take 2
-2 : Coup someone use 7 coins
-3 : Tax ie take 3 coins from treasury
-4 : Steal 2 coins from another player
-5 : Exchange 2 coins from court
-6 : Assasinate with 3 coins
-*/
-//A -> Actions
-enum Your_Turn_A : uint8_t {
+
+
+
+
+constexpr uint8_t NUM_CARDS = 15;
+constexpr uint8_t PLAYERS = 5;
+constexpr uint8_t CARDS_PER_PLAYER = 2;
+constexpr uint8_t DECK_SIZE = NUM_CARDS - PLAYERS * CARDS_PER_PLAYER;
+
+/* ===========================
+   ENUMS
+   =========================== */
+
+// Main turn actions
+enum class Turn_Action : uint8_t {
+    NONE = 0,
     INCOME,
-    FOREIGN,
+    FOREIGN_AID,
     COUP,
     TAX,
     STEAL,
     EXCHANGE,
-    ASSASINATE
+    ASSASSINATE
 };
 
-
-/*
-C. Character Counter Actions 
-0 : block stealing (when someone steals from you special circumstance)
-1 : Contessa someones assasination, only open if youve been asssasinated (Special circumstances)
-2 : block foreign aid (when someone does foreign aid)
-*/
-//CA -> Counter Actions
-enum Character_CA : uint8_t {
+// Character-based blocks
+enum class Counter_Actions : uint8_t {
+    NONE = 0,
+    CHALLENGE,
     BLOCK_STEAL,
-    BLOCK_FOREIGN,
-    BLOCK_ASSASIN
-}
+    BLOCK_FOREIGN_AID,
+    BLOCK_ASSASSINATE
+};
 
+// // Game phase (VERY IMPORTANT)
+// enum class Phase : uint8_t {
+//     TURN_START,
+//     ACTION_DECLARED,
+//     BLOCK_WINDOW,
+//     CHALLENGE_WINDOW,
+//     RESOLVE_ACTION,
+//     GAME_OVER
+// };
 
+/* ===========================
+   GAME STATE
+   =========================== */
 
-
-/*
-We want to maximize the amount of game steps per second,
-We will be calling this C++ game from python which implies
-    - Only pure function calls
-    - raw data in / raw data out
-
-We will probably use something like Cython or C API or maybe Pybind11
-
-
-So essentially C++ will handle
-    - Rules
-    - Transitions
-    - Validity
-    - Terminal detection
-
-*/
-
-
-
-
-
-// Python only has partial information
-/*Python needs to be able to do a few things which include
-    - It needs to shuffle deck
-    - It needs to deal cards to different ml models
-    - It needs to Choose action for each model described above
-    - It needs to get 
-
-*/
-
-/*In python this is how we will train our models
-GameState → Player1 (Model1) → action1
-          Player2 (Model2) → action2
-          …
-C++ step → new GameState
-
-
-
-*/
-
-
-
-// C++ has all possible information
-/*C++ needs to be able to do
-    - It needs to receive cards
-    - It needs to apply action to gamestate (give player money, player looses money, player loose card etc)
-    - 
-
-
-*/
-
-
-
-
-
-//just set this 
-const int MAX_PLAYERS = 5;
-const int DECK_SIZE = 15 - MAX_PLAYER*2;
-
-
-//This will be our game, anytime anything new happens we just change this
 struct GameState {
 
+    // Deck & discard
+    uint8_t deck[DECK_SIZE];
+    uint8_t discard[NUM_CARDS];
+    uint8_t deck_size;
+    uint8_t discard_size;
 
-    //Players and their cards,
-    //0 implies no card
-    //1-5 implies 
-    // 1 : duke
-    // 2 : captain
-    // 3 : Ambassador
-    // 4 : Assasin
-    // 5 : Contessa
-    uint8_t card_1[MAX_PLAYERS];
-    uint8_t card_2[MAX_PLAYERS];
+    // Player state
+    uint8_t card_1[PLAYERS];
+    uint8_t card_2[PLAYERS];
+    uint8_t coins[PLAYERS];
+    bool alive[PLAYERS];
 
-    //amount of money each player gets
-    uint8_t money[MAX_PLAYERS];
-
-    //Whos turn it is at any give time
-    uint8_t action_turn;
-    
+    // Turn info
+    uint8_t current_player;
     uint8_t player_count;
+    bool Turn_Start;
+    bool Block_Window;
+    bool Challenge_Window;
+    bool Game_Over;
+
+    // Pending action info
+    Turn_Action pending_action;
+    uint8_t pending_action_player;
+    uint8_t action_target;        // player id, or 255 if none
+    uint8_t blocking_player;      // who blocked (if any)
+    uint8_t challenging_player;   // who challenged (if any)
+
 };
 
 
 
+/* ===========================
+   CORE API (PURE FUNCTIONS)
+   =========================== */
 
-//Apparently constructors are slow, and we want to reset the game state every iteration for training so -->
-void reset(GameState* game, uint8_t num_players);
+// Setup
+void reset(GameState* game, const uint8_t (&deck_init)[DECK_SIZE],
+                            const uint8_t (&money_init)[PLAYERS],    
+                            const uint8_t (&c1)[PLAYERS], 
+                            const uint8_t (&c1)[PLAYERS]);
 
+                           
+// Action declaration
+bool declare_action(GameState* game, Turn_Action action, uint8_t target);
+
+// Actions
 void income(GameState* game);
-
 void foreign_aid(GameState* game);
-
 void tax(GameState* game);
-
-bool block(GameState* game, Your_Turn_A action);
-
-bool challenge(GameState* game, Your_Turn_A action);
-
-
+void exchange_cards(GameState* game);
+void assasinate(GameState* game, uint8_t player);
+void coup(GameState* game, uint8_t player);
+void steal(GameState* game, uint8_t player);
 
 
+// Responses
+bool declare_block(GameState* game, Character_CA block);
+bool declare_challenge(GameState* game);
 
-#endif
+// Resolution
+bool resolve(GameState* game);
+
+// Tells user all legal actions available
+uint8_t* legal_action_mask(const GameState* g);
+
+// Utilities
+uint8_t draw_card(GameState* game);
+bool is_terminal(const GameState* game);
+
+// Getters (Python-safe)
+inline uint8_t get_current_player(const GameState* game) { return game->current_player; }
+inline const uint8_t* get_coins(const GameState* game) { return game->coins; }
+inline const uint8_t* get_cards1(const GameState* game) { return game->card_1; }
+inline const uint8_t* get_cards2(const GameState* game) { return game->card_2; }
+
+#endif // GAME_LOGIC_H
