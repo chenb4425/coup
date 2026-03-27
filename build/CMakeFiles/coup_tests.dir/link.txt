@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/coup_tests.dir/tests/coup_test.cpp.o -o coup_tests  libcoup_lib.a lib/libgtest_main.a lib/libgmock.a lib/libgtest.a 

@@ -1,5 +1,0 @@
-if(EXISTS "/home/ian/VSCODE/C++/coup/build/coup_tests[1]_tests.cmake")
-  include("/home/ian/VSCODE/C++/coup/build/coup_tests[1]_tests.cmake")
-else()
-  add_test(coup_tests_NOT_BUILT coup_tests_NOT_BUILT)
-endif()

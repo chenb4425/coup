@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcoup_lib.a CMakeFiles/coup_lib.dir/src/coup.cpp.o
-/usr/bin/ranlib libcoup_lib.a
