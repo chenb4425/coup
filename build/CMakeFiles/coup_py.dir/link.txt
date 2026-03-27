@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto=auto -shared  -o coup_py.cpython-310-x86_64-linux-gnu.so CMakeFiles/coup_py.dir/src/bindings.cpp.o  libcoup_lib.a 

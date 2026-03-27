@@ -1,0 +1,2898 @@
+Start testing: Mar 27 15:00 PDT
+----------------------------------------------------------
+1/108 Testing: Construction.ValidPlayerCounts
+1/108 Test: Construction.ValidPlayerCounts
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Construction.ValidPlayerCounts" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Construction.ValidPlayerCounts" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Construction.ValidPlayerCounts
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Construction
+[ RUN      ] Construction.ValidPlayerCounts
+[       OK ] Construction.ValidPlayerCounts (0 ms)
+[----------] 1 test from Construction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Construction.ValidPlayerCounts" end time: Mar 27 15:00 PDT
+"Construction.ValidPlayerCounts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/108 Testing: Construction.TooFewPlayers
+2/108 Test: Construction.TooFewPlayers
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Construction.TooFewPlayers" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Construction.TooFewPlayers" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Construction.TooFewPlayers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Construction
+[ RUN      ] Construction.TooFewPlayers
+[       OK ] Construction.TooFewPlayers (0 ms)
+[----------] 1 test from Construction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Construction.TooFewPlayers" end time: Mar 27 15:00 PDT
+"Construction.TooFewPlayers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/108 Testing: Construction.TooManyPlayers
+3/108 Test: Construction.TooManyPlayers
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Construction.TooManyPlayers" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Construction.TooManyPlayers" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Construction.TooManyPlayers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Construction
+[ RUN      ] Construction.TooManyPlayers
+[       OK ] Construction.TooManyPlayers (0 ms)
+[----------] 1 test from Construction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Construction.TooManyPlayers" end time: Mar 27 15:00 PDT
+"Construction.TooManyPlayers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/108 Testing: Construction.InitialState
+4/108 Test: Construction.InitialState
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Construction.InitialState" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Construction.InitialState" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Construction.InitialState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Construction
+[ RUN      ] Construction.InitialState
+[       OK ] Construction.InitialState (0 ms)
+[----------] 1 test from Construction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Construction.InitialState" end time: Mar 27 15:00 PDT
+"Construction.InitialState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/108 Testing: Construction.InitialCoinsAndInfluence
+5/108 Test: Construction.InitialCoinsAndInfluence
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Construction.InitialCoinsAndInfluence" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Construction.InitialCoinsAndInfluence" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Construction.InitialCoinsAndInfluence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Construction
+[ RUN      ] Construction.InitialCoinsAndInfluence
+[       OK ] Construction.InitialCoinsAndInfluence (0 ms)
+[----------] 1 test from Construction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Construction.InitialCoinsAndInfluence" end time: Mar 27 15:00 PDT
+"Construction.InitialCoinsAndInfluence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/108 Testing: Income.GainsOneCoin
+6/108 Test: Income.GainsOneCoin
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Income.GainsOneCoin" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Income.GainsOneCoin" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Income.GainsOneCoin
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Income
+[ RUN      ] Income.GainsOneCoin
+[       OK ] Income.GainsOneCoin (0 ms)
+[----------] 1 test from Income (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Income.GainsOneCoin" end time: Mar 27 15:00 PDT
+"Income.GainsOneCoin" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/108 Testing: Income.AdvancesTurn
+7/108 Test: Income.AdvancesTurn
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Income.AdvancesTurn" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Income.AdvancesTurn" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Income.AdvancesTurn
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Income
+[ RUN      ] Income.AdvancesTurn
+[       OK ] Income.AdvancesTurn (0 ms)
+[----------] 1 test from Income (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Income.AdvancesTurn" end time: Mar 27 15:00 PDT
+"Income.AdvancesTurn" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/108 Testing: Income.NeverNeedsResponse
+8/108 Test: Income.NeverNeedsResponse
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Income.NeverNeedsResponse" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Income.NeverNeedsResponse" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Income.NeverNeedsResponse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Income
+[ RUN      ] Income.NeverNeedsResponse
+[       OK ] Income.NeverNeedsResponse (0 ms)
+[----------] 1 test from Income (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Income.NeverNeedsResponse" end time: Mar 27 15:00 PDT
+"Income.NeverNeedsResponse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/108 Testing: ForeignAid.OpensResponseWindow
+9/108 Test: ForeignAid.OpensResponseWindow
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ForeignAid.OpensResponseWindow" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ForeignAid.OpensResponseWindow" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ForeignAid.OpensResponseWindow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ForeignAid
+[ RUN      ] ForeignAid.OpensResponseWindow
+[       OK ] ForeignAid.OpensResponseWindow (0 ms)
+[----------] 1 test from ForeignAid (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ForeignAid.OpensResponseWindow" end time: Mar 27 15:00 PDT
+"ForeignAid.OpensResponseWindow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/108 Testing: ForeignAid.AllPassGivesTwoCoins
+10/108 Test: ForeignAid.AllPassGivesTwoCoins
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ForeignAid.AllPassGivesTwoCoins" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ForeignAid.AllPassGivesTwoCoins" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ForeignAid.AllPassGivesTwoCoins
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ForeignAid
+[ RUN      ] ForeignAid.AllPassGivesTwoCoins
+[       OK ] ForeignAid.AllPassGivesTwoCoins (0 ms)
+[----------] 1 test from ForeignAid (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ForeignAid.AllPassGivesTwoCoins" end time: Mar 27 15:00 PDT
+"ForeignAid.AllPassGivesTwoCoins" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/108 Testing: ForeignAid.BlockedByDukeCancelsCoins
+11/108 Test: ForeignAid.BlockedByDukeCancelsCoins
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ForeignAid.BlockedByDukeCancelsCoins" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ForeignAid.BlockedByDukeCancelsCoins" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ForeignAid.BlockedByDukeCancelsCoins
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ForeignAid
+[ RUN      ] ForeignAid.BlockedByDukeCancelsCoins
+[       OK ] ForeignAid.BlockedByDukeCancelsCoins (0 ms)
+[----------] 1 test from ForeignAid (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ForeignAid.BlockedByDukeCancelsCoins" end time: Mar 27 15:00 PDT
+"ForeignAid.BlockedByDukeCancelsCoins" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/108 Testing: ForeignAid.BlockOpensBlockResponseWindow
+12/108 Test: ForeignAid.BlockOpensBlockResponseWindow
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ForeignAid.BlockOpensBlockResponseWindow" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ForeignAid.BlockOpensBlockResponseWindow" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ForeignAid.BlockOpensBlockResponseWindow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ForeignAid
+[ RUN      ] ForeignAid.BlockOpensBlockResponseWindow
+[       OK ] ForeignAid.BlockOpensBlockResponseWindow (0 ms)
+[----------] 1 test from ForeignAid (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ForeignAid.BlockOpensBlockResponseWindow" end time: Mar 27 15:00 PDT
+"ForeignAid.BlockOpensBlockResponseWindow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/108 Testing: ForeignAid.LegalBlockMovesContainsDuke
+13/108 Test: ForeignAid.LegalBlockMovesContainsDuke
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ForeignAid.LegalBlockMovesContainsDuke" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ForeignAid.LegalBlockMovesContainsDuke" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ForeignAid.LegalBlockMovesContainsDuke
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ForeignAid
+[ RUN      ] ForeignAid.LegalBlockMovesContainsDuke
+[       OK ] ForeignAid.LegalBlockMovesContainsDuke (0 ms)
+[----------] 1 test from ForeignAid (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ForeignAid.LegalBlockMovesContainsDuke" end time: Mar 27 15:00 PDT
+"ForeignAid.LegalBlockMovesContainsDuke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/108 Testing: Tax.OpensResponseWindowAsChallengeableNotBlockable
+14/108 Test: Tax.OpensResponseWindowAsChallengeableNotBlockable
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Tax.OpensResponseWindowAsChallengeableNotBlockable" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Tax.OpensResponseWindowAsChallengeableNotBlockable" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Tax.OpensResponseWindowAsChallengeableNotBlockable
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tax
+[ RUN      ] Tax.OpensResponseWindowAsChallengeableNotBlockable
+[       OK ] Tax.OpensResponseWindowAsChallengeableNotBlockable (0 ms)
+[----------] 1 test from Tax (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tax.OpensResponseWindowAsChallengeableNotBlockable" end time: Mar 27 15:00 PDT
+"Tax.OpensResponseWindowAsChallengeableNotBlockable" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/108 Testing: Tax.AllPassGivesThreeCoins
+15/108 Test: Tax.AllPassGivesThreeCoins
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Tax.AllPassGivesThreeCoins" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Tax.AllPassGivesThreeCoins" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Tax.AllPassGivesThreeCoins
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tax
+[ RUN      ] Tax.AllPassGivesThreeCoins
+[       OK ] Tax.AllPassGivesThreeCoins (0 ms)
+[----------] 1 test from Tax (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tax.AllPassGivesThreeCoins" end time: Mar 27 15:00 PDT
+"Tax.AllPassGivesThreeCoins" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/108 Testing: Tax.LegalResponsesMustContainChallenge
+16/108 Test: Tax.LegalResponsesMustContainChallenge
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Tax.LegalResponsesMustContainChallenge" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Tax.LegalResponsesMustContainChallenge" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Tax.LegalResponsesMustContainChallenge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tax
+[ RUN      ] Tax.LegalResponsesMustContainChallenge
+[       OK ] Tax.LegalResponsesMustContainChallenge (0 ms)
+[----------] 1 test from Tax (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tax.LegalResponsesMustContainChallenge" end time: Mar 27 15:00 PDT
+"Tax.LegalResponsesMustContainChallenge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/108 Testing: Tax.LegalResponsesMustNotContainBlock
+17/108 Test: Tax.LegalResponsesMustNotContainBlock
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Tax.LegalResponsesMustNotContainBlock" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Tax.LegalResponsesMustNotContainBlock" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Tax.LegalResponsesMustNotContainBlock
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Tax
+[ RUN      ] Tax.LegalResponsesMustNotContainBlock
+[       OK ] Tax.LegalResponsesMustNotContainBlock (0 ms)
+[----------] 1 test from Tax (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tax.LegalResponsesMustNotContainBlock" end time: Mar 27 15:00 PDT
+"Tax.LegalResponsesMustNotContainBlock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/108 Testing: Assassinate.RequiresThreeCoins
+18/108 Test: Assassinate.RequiresThreeCoins
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Assassinate.RequiresThreeCoins" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Assassinate.RequiresThreeCoins" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Assassinate.RequiresThreeCoins
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Assassinate
+[ RUN      ] Assassinate.RequiresThreeCoins
+[       OK ] Assassinate.RequiresThreeCoins (0 ms)
+[----------] 1 test from Assassinate (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Assassinate.RequiresThreeCoins" end time: Mar 27 15:00 PDT
+"Assassinate.RequiresThreeCoins" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/108 Testing: Assassinate.DeductsThreeCoinsImmediately
+19/108 Test: Assassinate.DeductsThreeCoinsImmediately
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Assassinate.DeductsThreeCoinsImmediately" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Assassinate.DeductsThreeCoinsImmediately" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Assassinate.DeductsThreeCoinsImmediately
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Assassinate
+[ RUN      ] Assassinate.DeductsThreeCoinsImmediately
+[       OK ] Assassinate.DeductsThreeCoinsImmediately (0 ms)
+[----------] 1 test from Assassinate (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Assassinate.DeductsThreeCoinsImmediately" end time: Mar 27 15:00 PDT
+"Assassinate.DeductsThreeCoinsImmediately" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/108 Testing: Assassinate.TargetCanBlockWithContessa
+20/108 Test: Assassinate.TargetCanBlockWithContessa
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Assassinate.TargetCanBlockWithContessa" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Assassinate.TargetCanBlockWithContessa" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Assassinate.TargetCanBlockWithContessa
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Assassinate
+[ RUN      ] Assassinate.TargetCanBlockWithContessa
+[       OK ] Assassinate.TargetCanBlockWithContessa (0 ms)
+[----------] 1 test from Assassinate (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Assassinate.TargetCanBlockWithContessa" end time: Mar 27 15:00 PDT
+"Assassinate.TargetCanBlockWithContessa" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/108 Testing: Assassinate.SuccessfulAssassinationEntersLoseInfluence
+21/108 Test: Assassinate.SuccessfulAssassinationEntersLoseInfluence
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Assassinate.SuccessfulAssassinationEntersLoseInfluence" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Assassinate.SuccessfulAssassinationEntersLoseInfluence" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Assassinate.SuccessfulAssassinationEntersLoseInfluence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Assassinate
+[ RUN      ] Assassinate.SuccessfulAssassinationEntersLoseInfluence
+[       OK ] Assassinate.SuccessfulAssassinationEntersLoseInfluence (0 ms)
+[----------] 1 test from Assassinate (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Assassinate.SuccessfulAssassinationEntersLoseInfluence" end time: Mar 27 15:00 PDT
+"Assassinate.SuccessfulAssassinationEntersLoseInfluence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/108 Testing: Steal.TakesUpToTwoCoinsFromTarget
+22/108 Test: Steal.TakesUpToTwoCoinsFromTarget
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Steal.TakesUpToTwoCoinsFromTarget" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Steal.TakesUpToTwoCoinsFromTarget" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Steal.TakesUpToTwoCoinsFromTarget
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Steal
+[ RUN      ] Steal.TakesUpToTwoCoinsFromTarget
+[       OK ] Steal.TakesUpToTwoCoinsFromTarget (0 ms)
+[----------] 1 test from Steal (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Steal.TakesUpToTwoCoinsFromTarget" end time: Mar 27 15:00 PDT
+"Steal.TakesUpToTwoCoinsFromTarget" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/108 Testing: Steal.TargetCanBlockWithCaptainOrAmbassador
+23/108 Test: Steal.TargetCanBlockWithCaptainOrAmbassador
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Steal.TargetCanBlockWithCaptainOrAmbassador" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Steal.TargetCanBlockWithCaptainOrAmbassador" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Steal.TargetCanBlockWithCaptainOrAmbassador
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Steal
+[ RUN      ] Steal.TargetCanBlockWithCaptainOrAmbassador
+[       OK ] Steal.TargetCanBlockWithCaptainOrAmbassador (0 ms)
+[----------] 1 test from Steal (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Steal.TargetCanBlockWithCaptainOrAmbassador" end time: Mar 27 15:00 PDT
+"Steal.TargetCanBlockWithCaptainOrAmbassador" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/108 Testing: Steal.NonTargetCannotBlock
+24/108 Test: Steal.NonTargetCannotBlock
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Steal.NonTargetCannotBlock" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Steal.NonTargetCannotBlock" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Steal.NonTargetCannotBlock
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Steal
+[ RUN      ] Steal.NonTargetCannotBlock
+[       OK ] Steal.NonTargetCannotBlock (0 ms)
+[----------] 1 test from Steal (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Steal.NonTargetCannotBlock" end time: Mar 27 15:00 PDT
+"Steal.NonTargetCannotBlock" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/108 Testing: Steal.CannotStealFromSelf
+25/108 Test: Steal.CannotStealFromSelf
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Steal.CannotStealFromSelf" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Steal.CannotStealFromSelf" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Steal.CannotStealFromSelf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Steal
+[ RUN      ] Steal.CannotStealFromSelf
+[       OK ] Steal.CannotStealFromSelf (0 ms)
+[----------] 1 test from Steal (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Steal.CannotStealFromSelf" end time: Mar 27 15:00 PDT
+"Steal.CannotStealFromSelf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/108 Testing: Exchange.ResolvesToExchangeSelectionPhase
+26/108 Test: Exchange.ResolvesToExchangeSelectionPhase
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Exchange.ResolvesToExchangeSelectionPhase" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Exchange.ResolvesToExchangeSelectionPhase" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Exchange.ResolvesToExchangeSelectionPhase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Exchange
+[ RUN      ] Exchange.ResolvesToExchangeSelectionPhase
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:291: Failure
+Expected equality of these values:
+  gs.phase()
+    Which is: 1-byte object <06>
+  Phase::EXCHANGE_SELECTION
+    Which is: 1-byte object <03>
+
+[  FAILED  ] Exchange.ResolvesToExchangeSelectionPhase (0 ms)
+[----------] 1 test from Exchange (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Exchange.ResolvesToExchangeSelectionPhase
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"Exchange.ResolvesToExchangeSelectionPhase" end time: Mar 27 15:00 PDT
+"Exchange.ResolvesToExchangeSelectionPhase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/108 Testing: Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw
+27/108 Test: Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Exchange
+[ RUN      ] Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw
+[       OK ] Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw (0 ms)
+[----------] 1 test from Exchange (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw" end time: Mar 27 15:00 PDT
+"Exchange.ExchangeCardsCountEqualsInfluencePlusTwoDraw" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/108 Testing: Exchange.KeepCardsMaskMustMatchInfluenceCount
+28/108 Test: Exchange.KeepCardsMaskMustMatchInfluenceCount
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Exchange.KeepCardsMaskMustMatchInfluenceCount" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Exchange.KeepCardsMaskMustMatchInfluenceCount" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Exchange.KeepCardsMaskMustMatchInfluenceCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Exchange
+[ RUN      ] Exchange.KeepCardsMaskMustMatchInfluenceCount
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:309: Failure
+Expected equality of these values:
+  m.action
+    Which is: 1-byte object <0C>
+  ActionType::KEEP_CARDS
+    Which is: 1-byte object <0B>
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:310: Failure
+Expected equality of these values:
+  __builtin_popcount(m.cardIdx)
+    Which is: 0
+  inf
+    Which is: 2
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:309: Failure
+Expected equality of these values:
+  m.action
+    Which is: 1-byte object <0C>
+  ActionType::KEEP_CARDS
+    Which is: 1-byte object <0B>
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:310: Failure
+Expected equality of these values:
+  __builtin_popcount(m.cardIdx)
+    Which is: 1
+  inf
+    Which is: 2
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:309: Failure
+Expected equality of these values:
+  m.action
+    Which is: 1-byte object <0C>
+  ActionType::KEEP_CARDS
+    Which is: 1-byte object <0B>
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:310: Failure
+Expected equality of these values:
+  __builtin_popcount(m.cardIdx)
+    Which is: 1
+  inf
+    Which is: 2
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:309: Failure
+Expected equality of these values:
+  m.action
+    Which is: 1-byte object <0C>
+  ActionType::KEEP_CARDS
+    Which is: 1-byte object <0B>
+
+[  FAILED  ] Exchange.KeepCardsMaskMustMatchInfluenceCount (0 ms)
+[----------] 1 test from Exchange (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Exchange.KeepCardsMaskMustMatchInfluenceCount
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"Exchange.KeepCardsMaskMustMatchInfluenceCount" end time: Mar 27 15:00 PDT
+"Exchange.KeepCardsMaskMustMatchInfluenceCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/108 Testing: Exchange.AfterKeepCardsReturnToActionSelection
+29/108 Test: Exchange.AfterKeepCardsReturnToActionSelection
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Exchange.AfterKeepCardsReturnToActionSelection" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Exchange.AfterKeepCardsReturnToActionSelection" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Exchange.AfterKeepCardsReturnToActionSelection
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Exchange
+[ RUN      ] Exchange.AfterKeepCardsReturnToActionSelection
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:321: Failure
+Expected equality of these values:
+  gs.phase()
+    Which is: 1-byte object <06>
+  Phase::ACTION_SELECTION
+    Which is: 1-byte object <00>
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:322: Failure
+Expected equality of these values:
+  gs.activePlayer()
+    Which is: 0
+  1
+
+[  FAILED  ] Exchange.AfterKeepCardsReturnToActionSelection (0 ms)
+[----------] 1 test from Exchange (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] Exchange.AfterKeepCardsReturnToActionSelection
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"Exchange.AfterKeepCardsReturnToActionSelection" end time: Mar 27 15:00 PDT
+"Exchange.AfterKeepCardsReturnToActionSelection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/108 Testing: Coup.RequiresSevenCoins
+30/108 Test: Coup.RequiresSevenCoins
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Coup.RequiresSevenCoins" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Coup.RequiresSevenCoins" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Coup.RequiresSevenCoins
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Coup
+[ RUN      ] Coup.RequiresSevenCoins
+[       OK ] Coup.RequiresSevenCoins (0 ms)
+[----------] 1 test from Coup (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coup.RequiresSevenCoins" end time: Mar 27 15:00 PDT
+"Coup.RequiresSevenCoins" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/108 Testing: Coup.DeductsSevenCoinsAndEntersLoseInfluence
+31/108 Test: Coup.DeductsSevenCoinsAndEntersLoseInfluence
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Coup.DeductsSevenCoinsAndEntersLoseInfluence" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Coup.DeductsSevenCoinsAndEntersLoseInfluence" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Coup.DeductsSevenCoinsAndEntersLoseInfluence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Coup
+[ RUN      ] Coup.DeductsSevenCoinsAndEntersLoseInfluence
+[       OK ] Coup.DeductsSevenCoinsAndEntersLoseInfluence (0 ms)
+[----------] 1 test from Coup (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coup.DeductsSevenCoinsAndEntersLoseInfluence" end time: Mar 27 15:00 PDT
+"Coup.DeductsSevenCoinsAndEntersLoseInfluence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/108 Testing: Coup.MandatoryAt10Coins_OnlyShowsCoupMoves
+32/108 Test: Coup.MandatoryAt10Coins_OnlyShowsCoupMoves
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Coup.MandatoryAt10Coins_OnlyShowsCoupMoves" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Coup.MandatoryAt10Coins_OnlyShowsCoupMoves" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Coup.MandatoryAt10Coins_OnlyShowsCoupMoves
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Coup
+[ RUN      ] Coup.MandatoryAt10Coins_OnlyShowsCoupMoves
+[       OK ] Coup.MandatoryAt10Coins_OnlyShowsCoupMoves (0 ms)
+[----------] 1 test from Coup (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coup.MandatoryAt10Coins_OnlyShowsCoupMoves" end time: Mar 27 15:00 PDT
+"Coup.MandatoryAt10Coins_OnlyShowsCoupMoves" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/108 Testing: LoseInfluence.RevealedCardBecomesNotAlive
+33/108 Test: LoseInfluence.RevealedCardBecomesNotAlive
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LoseInfluence.RevealedCardBecomesNotAlive" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LoseInfluence.RevealedCardBecomesNotAlive" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LoseInfluence.RevealedCardBecomesNotAlive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoseInfluence
+[ RUN      ] LoseInfluence.RevealedCardBecomesNotAlive
+[       OK ] LoseInfluence.RevealedCardBecomesNotAlive (0 ms)
+[----------] 1 test from LoseInfluence (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LoseInfluence.RevealedCardBecomesNotAlive" end time: Mar 27 15:00 PDT
+"LoseInfluence.RevealedCardBecomesNotAlive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/108 Testing: LoseInfluence.LosesBothCardsEliminatesPlayer
+34/108 Test: LoseInfluence.LosesBothCardsEliminatesPlayer
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LoseInfluence.LosesBothCardsEliminatesPlayer" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LoseInfluence.LosesBothCardsEliminatesPlayer" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LoseInfluence.LosesBothCardsEliminatesPlayer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoseInfluence
+[ RUN      ] LoseInfluence.LosesBothCardsEliminatesPlayer
+[       OK ] LoseInfluence.LosesBothCardsEliminatesPlayer (0 ms)
+[----------] 1 test from LoseInfluence (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LoseInfluence.LosesBothCardsEliminatesPlayer" end time: Mar 27 15:00 PDT
+"LoseInfluence.LosesBothCardsEliminatesPlayer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/108 Testing: LoseInfluence.InvalidCardIndexThrows
+35/108 Test: LoseInfluence.InvalidCardIndexThrows
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LoseInfluence.InvalidCardIndexThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LoseInfluence.InvalidCardIndexThrows" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LoseInfluence.InvalidCardIndexThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoseInfluence
+[ RUN      ] LoseInfluence.InvalidCardIndexThrows
+[       OK ] LoseInfluence.InvalidCardIndexThrows (0 ms)
+[----------] 1 test from LoseInfluence (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LoseInfluence.InvalidCardIndexThrows" end time: Mar 27 15:00 PDT
+"LoseInfluence.InvalidCardIndexThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/108 Testing: Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose
+36/108 Test: Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Challenge
+[ RUN      ] Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose
+[       OK ] Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose (0 ms)
+[----------] 1 test from Challenge (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose" end time: Mar 27 15:00 PDT
+"Challenge.ChallengingTaxWithCorrectCardCausesChallengingPlayerToLose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/108 Testing: Challenge.ChallengingTaxWithBluffingActorCausesActorToLose
+37/108 Test: Challenge.ChallengingTaxWithBluffingActorCausesActorToLose
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Challenge.ChallengingTaxWithBluffingActorCausesActorToLose" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Challenge.ChallengingTaxWithBluffingActorCausesActorToLose" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Challenge.ChallengingTaxWithBluffingActorCausesActorToLose
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Challenge
+[ RUN      ] Challenge.ChallengingTaxWithBluffingActorCausesActorToLose
+[       OK ] Challenge.ChallengingTaxWithBluffingActorCausesActorToLose (0 ms)
+[----------] 1 test from Challenge (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Challenge.ChallengingTaxWithBluffingActorCausesActorToLose" end time: Mar 27 15:00 PDT
+"Challenge.ChallengingTaxWithBluffingActorCausesActorToLose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/108 Testing: Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction
+38/108 Test: Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Challenge
+[ RUN      ] Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction
+[       OK ] Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction (0 ms)
+[----------] 1 test from Challenge (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction" end time: Mar 27 15:00 PDT
+"Challenge.SuccessfulDukeBlockChallengeResolvesOriginalAction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/108 Testing: LegalMoves.NeverEmptyInNonTerminalState
+39/108 Test: LegalMoves.NeverEmptyInNonTerminalState
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LegalMoves.NeverEmptyInNonTerminalState" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LegalMoves.NeverEmptyInNonTerminalState" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LegalMoves.NeverEmptyInNonTerminalState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LegalMoves
+[ RUN      ] LegalMoves.NeverEmptyInNonTerminalState
+[       OK ] LegalMoves.NeverEmptyInNonTerminalState (10 ms)
+[----------] 1 test from LegalMoves (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LegalMoves.NeverEmptyInNonTerminalState" end time: Mar 27 15:00 PDT
+"LegalMoves.NeverEmptyInNonTerminalState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/108 Testing: LegalMoves.EmptyInTerminalState
+40/108 Test: LegalMoves.EmptyInTerminalState
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LegalMoves.EmptyInTerminalState" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LegalMoves.EmptyInTerminalState" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LegalMoves.EmptyInTerminalState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LegalMoves
+[ RUN      ] LegalMoves.EmptyInTerminalState
+[       OK ] LegalMoves.EmptyInTerminalState (0 ms)
+[----------] 1 test from LegalMoves (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LegalMoves.EmptyInTerminalState" end time: Mar 27 15:00 PDT
+"LegalMoves.EmptyInTerminalState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/108 Testing: LegalMoves.EliminatedPlayersSkipped
+41/108 Test: LegalMoves.EliminatedPlayersSkipped
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=LegalMoves.EliminatedPlayersSkipped" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"LegalMoves.EliminatedPlayersSkipped" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LegalMoves.EliminatedPlayersSkipped
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LegalMoves
+[ RUN      ] LegalMoves.EliminatedPlayersSkipped
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:503: Failure
+Value of: gs.player(gs.respondingPlayer()).isEliminated()
+  Actual: true
+Expected: false
+
+/home/ian/VSCODE/C++/coup/tests/coup_test.cpp:503: Failure
+Value of: gs.player(gs.respondingPlayer()).isEliminated()
+  Actual: true
+Expected: false
+
+[  FAILED  ] LegalMoves.EliminatedPlayersSkipped (0 ms)
+[----------] 1 test from LegalMoves (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] LegalMoves.EliminatedPlayersSkipped
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"LegalMoves.EliminatedPlayersSkipped" end time: Mar 27 15:00 PDT
+"LegalMoves.EliminatedPlayersSkipped" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/108 Testing: Termination.AlwaysProducesValidWinner_2Players
+42/108 Test: Termination.AlwaysProducesValidWinner_2Players
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Termination.AlwaysProducesValidWinner_2Players" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Termination.AlwaysProducesValidWinner_2Players" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Termination.AlwaysProducesValidWinner_2Players
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Termination
+[ RUN      ] Termination.AlwaysProducesValidWinner_2Players
+[       OK ] Termination.AlwaysProducesValidWinner_2Players (3 ms)
+[----------] 1 test from Termination (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Termination.AlwaysProducesValidWinner_2Players" end time: Mar 27 15:00 PDT
+"Termination.AlwaysProducesValidWinner_2Players" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/108 Testing: Termination.AlwaysProducesValidWinner_6Players
+43/108 Test: Termination.AlwaysProducesValidWinner_6Players
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Termination.AlwaysProducesValidWinner_6Players" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Termination.AlwaysProducesValidWinner_6Players" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Termination.AlwaysProducesValidWinner_6Players
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Termination
+[ RUN      ] Termination.AlwaysProducesValidWinner_6Players
+[       OK ] Termination.AlwaysProducesValidWinner_6Players (1 ms)
+[----------] 1 test from Termination (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Termination.AlwaysProducesValidWinner_6Players" end time: Mar 27 15:00 PDT
+"Termination.AlwaysProducesValidWinner_6Players" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/108 Testing: Termination.WinnerIsNotEliminated
+44/108 Test: Termination.WinnerIsNotEliminated
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Termination.WinnerIsNotEliminated" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Termination.WinnerIsNotEliminated" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Termination.WinnerIsNotEliminated
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Termination
+[ RUN      ] Termination.WinnerIsNotEliminated
+[       OK ] Termination.WinnerIsNotEliminated (9 ms)
+[----------] 1 test from Termination (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Termination.WinnerIsNotEliminated" end time: Mar 27 15:00 PDT
+"Termination.WinnerIsNotEliminated" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/108 Testing: Coins.NeverGoNegative
+45/108 Test: Coins.NeverGoNegative
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=Coins.NeverGoNegative" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"Coins.NeverGoNegative" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Coins.NeverGoNegative
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Coins
+[ RUN      ] Coins.NeverGoNegative
+[       OK ] Coins.NeverGoNegative (2 ms)
+[----------] 1 test from Coins (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Coins.NeverGoNegative" end time: Mar 27 15:00 PDT
+"Coins.NeverGoNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/108 Testing: ErrorHandling.ApplyMoveAfterGameOverThrows
+46/108 Test: ErrorHandling.ApplyMoveAfterGameOverThrows
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ErrorHandling.ApplyMoveAfterGameOverThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ErrorHandling.ApplyMoveAfterGameOverThrows" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ErrorHandling.ApplyMoveAfterGameOverThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ErrorHandling
+[ RUN      ] ErrorHandling.ApplyMoveAfterGameOverThrows
+[       OK ] ErrorHandling.ApplyMoveAfterGameOverThrows (0 ms)
+[----------] 1 test from ErrorHandling (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ErrorHandling.ApplyMoveAfterGameOverThrows" end time: Mar 27 15:00 PDT
+"ErrorHandling.ApplyMoveAfterGameOverThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/108 Testing: ErrorHandling.CoupWithoutEnoughCoinsThrows
+47/108 Test: ErrorHandling.CoupWithoutEnoughCoinsThrows
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ErrorHandling.CoupWithoutEnoughCoinsThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ErrorHandling.CoupWithoutEnoughCoinsThrows" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ErrorHandling.CoupWithoutEnoughCoinsThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ErrorHandling
+[ RUN      ] ErrorHandling.CoupWithoutEnoughCoinsThrows
+[       OK ] ErrorHandling.CoupWithoutEnoughCoinsThrows (0 ms)
+[----------] 1 test from ErrorHandling (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ErrorHandling.CoupWithoutEnoughCoinsThrows" end time: Mar 27 15:00 PDT
+"ErrorHandling.CoupWithoutEnoughCoinsThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/108 Testing: ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows
+48/108 Test: ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ErrorHandling
+[ RUN      ] ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows
+[       OK ] ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows (0 ms)
+[----------] 1 test from ErrorHandling (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows" end time: Mar 27 15:00 PDT
+"ErrorHandling.LoseCardWithAlreadyRevealedSlotThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/108 Testing: StringHelpers.CardNameRoundTrip
+49/108 Test: StringHelpers.CardNameRoundTrip
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=StringHelpers.CardNameRoundTrip" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"StringHelpers.CardNameRoundTrip" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelpers.CardNameRoundTrip
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelpers
+[ RUN      ] StringHelpers.CardNameRoundTrip
+[       OK ] StringHelpers.CardNameRoundTrip (0 ms)
+[----------] 1 test from StringHelpers (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelpers.CardNameRoundTrip" end time: Mar 27 15:00 PDT
+"StringHelpers.CardNameRoundTrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/108 Testing: StringHelpers.ToStringDoesNotCrashInAnyPhase
+50/108 Test: StringHelpers.ToStringDoesNotCrashInAnyPhase
+Command: "/home/ian/VSCODE/C++/coup/build/coup_tests" "--gtest_filter=StringHelpers.ToStringDoesNotCrashInAnyPhase" "--gtest_also_run_disabled_tests"
+Directory: /home/ian/VSCODE/C++/coup/build
+"StringHelpers.ToStringDoesNotCrashInAnyPhase" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+Running main() from /home/ian/VSCODE/C++/coup/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StringHelpers.ToStringDoesNotCrashInAnyPhase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StringHelpers
+[ RUN      ] StringHelpers.ToStringDoesNotCrashInAnyPhase
+[       OK ] StringHelpers.ToStringDoesNotCrashInAnyPhase (0 ms)
+[----------] 1 test from StringHelpers (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StringHelpers.ToStringDoesNotCrashInAnyPhase" end time: Mar 27 15:00 PDT
+"StringHelpers.ToStringDoesNotCrashInAnyPhase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/108 Testing: py::test_import
+51/108 Test: py::test_import
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_import" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_import" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_import PASSED                     [100%]
+
+============================== 1 passed in 0.14s ===============================
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_import" end time: Mar 27 15:00 PDT
+"py::test_import" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/108 Testing: py::test_enums_exist
+52/108 Test: py::test_enums_exist
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_enums_exist" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_enums_exist" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_enums_exist PASSED                [100%]
+
+============================== 1 passed in 0.05s ===============================
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_enums_exist" end time: Mar 27 15:00 PDT
+"py::test_enums_exist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/108 Testing: py::test_all_action_types_exist
+53/108 Test: py::test_all_action_types_exist
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_all_action_types_exist" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_all_action_types_exist" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_all_action_types_exist PASSED     [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_all_action_types_exist" end time: Mar 27 15:00 PDT
+"py::test_all_action_types_exist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/108 Testing: py::test_all_phases_exist
+54/108 Test: py::test_all_phases_exist
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_all_phases_exist" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_all_phases_exist" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_all_phases_exist PASSED           [100%]
+
+============================== 1 passed in 0.04s ===============================
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_all_phases_exist" end time: Mar 27 15:00 PDT
+"py::test_all_phases_exist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/108 Testing: py::test_create_game
+55/108 Test: py::test_create_game
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_create_game" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_create_game" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_create_game PASSED                [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_create_game" end time: Mar 27 15:00 PDT
+"py::test_create_game" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/108 Testing: py::test_create_game_keyword_seed
+56/108 Test: py::test_create_game_keyword_seed
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_create_game_keyword_seed" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_create_game_keyword_seed" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_create_game_keyword_seed PASSED   [100%]
+
+============================== 1 passed in 0.04s ===============================
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_create_game_keyword_seed" end time: Mar 27 15:00 PDT
+"py::test_create_game_keyword_seed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/108 Testing: py::test_players_exist
+57/108 Test: py::test_players_exist
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_players_exist" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_players_exist" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_players_exist PASSED              [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_players_exist" end time: Mar 27 15:00 PDT
+"py::test_players_exist" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/108 Testing: py::test_player_cards
+58/108 Test: py::test_player_cards
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_cards" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_cards" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_cards PASSED               [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_cards" end time: Mar 27 15:00 PDT
+"py::test_player_cards" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/108 Testing: py::test_player_has_card
+59/108 Test: py::test_player_has_card
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_has_card" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_has_card" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_has_card PASSED            [100%]
+
+============================== 1 passed in 0.04s ===============================
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_has_card" end time: Mar 27 15:00 PDT
+"py::test_player_has_card" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/108 Testing: py::test_player_influence_range
+60/108 Test: py::test_player_influence_range
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_influence_range" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_influence_range" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_influence_range PASSED     [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_influence_range" end time: Mar 27 15:00 PDT
+"py::test_player_influence_range" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/108 Testing: py::test_player_is_eliminated_false_at_start
+61/108 Test: py::test_player_is_eliminated_false_at_start
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_is_eliminated_false_at_start" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_is_eliminated_false_at_start" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_is_eliminated_false_at_start PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_is_eliminated_false_at_start" end time: Mar 27 15:00 PDT
+"py::test_player_is_eliminated_false_at_start" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/108 Testing: py::test_move_factories
+62/108 Test: py::test_move_factories
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_move_factories" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_move_factories" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_move_factories PASSED             [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_move_factories" end time: Mar 27 15:00 PDT
+"py::test_move_factories" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/108 Testing: py::test_move_repr
+63/108 Test: py::test_move_repr
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_move_repr" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_move_repr" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_move_repr PASSED                  [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_move_repr" end time: Mar 27 15:00 PDT
+"py::test_move_repr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/108 Testing: py::test_move_readwrite_fields
+64/108 Test: py::test_move_readwrite_fields
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_move_readwrite_fields" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_move_readwrite_fields" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_move_readwrite_fields PASSED      [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_move_readwrite_fields" end time: Mar 27 15:00 PDT
+"py::test_move_readwrite_fields" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/108 Testing: py::test_legal_moves_takes_no_arguments
+65/108 Test: py::test_legal_moves_takes_no_arguments
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_takes_no_arguments" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_takes_no_arguments" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_takes_no_arguments PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_takes_no_arguments" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_takes_no_arguments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/108 Testing: py::test_legal_moves_not_empty
+66/108 Test: py::test_legal_moves_not_empty
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_not_empty" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_not_empty" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_not_empty PASSED      [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_not_empty" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_not_empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/108 Testing: py::test_legal_moves_returns_move_objects
+67/108 Test: py::test_legal_moves_returns_move_objects
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_returns_move_objects" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_returns_move_objects" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_returns_move_objects PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_returns_move_objects" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_returns_move_objects" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/108 Testing: py::test_apply_one_move
+68/108 Test: py::test_apply_one_move
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_apply_one_move" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_apply_one_move" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_apply_one_move PASSED             [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_apply_one_move" end time: Mar 27 15:00 PDT
+"py::test_apply_one_move" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/108 Testing: py::test_legal_moves_to_integers_parallel
+69/108 Test: py::test_legal_moves_to_integers_parallel
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_to_integers_parallel" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_to_integers_parallel" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_to_integers_parallel PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_to_integers_parallel" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_to_integers_parallel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/108 Testing: py::test_legal_moves_to_integers_x_is_action_type
+70/108 Test: py::test_legal_moves_to_integers_x_is_action_type
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_to_integers_x_is_action_type" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_to_integers_x_is_action_type" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_to_integers_x_is_action_type PASSED [100%]
+
+============================== 1 passed in 0.02s ===============================
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_to_integers_x_is_action_type" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_to_integers_x_is_action_type" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/108 Testing: py::test_legal_moves_to_integers_all_distinct
+71/108 Test: py::test_legal_moves_to_integers_all_distinct
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_legal_moves_to_integers_all_distinct" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_legal_moves_to_integers_all_distinct" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_legal_moves_to_integers_all_distinct PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_legal_moves_to_integers_all_distinct" end time: Mar 27 15:00 PDT
+"py::test_legal_moves_to_integers_all_distinct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/108 Testing: py::test_move_to_point3d_static
+72/108 Test: py::test_move_to_point3d_static
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_move_to_point3d_static" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_move_to_point3d_static" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_move_to_point3d_static PASSED     [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_move_to_point3d_static" end time: Mar 27 15:00 PDT
+"py::test_move_to_point3d_static" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/108 Testing: py::test_play_until_terminal
+73/108 Test: py::test_play_until_terminal
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_play_until_terminal" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_play_until_terminal" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_play_until_terminal PASSED        [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_play_until_terminal" end time: Mar 27 15:00 PDT
+"py::test_play_until_terminal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/108 Testing: py::test_active_player_cycles
+74/108 Test: py::test_active_player_cycles
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_active_player_cycles" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_active_player_cycles" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_active_player_cycles PASSED       [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_active_player_cycles" end time: Mar 27 15:00 PDT
+"py::test_active_player_cycles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/108 Testing: py::test_phase_property
+75/108 Test: py::test_phase_property
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_phase_property" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_phase_property" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_phase_property PASSED             [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_phase_property" end time: Mar 27 15:00 PDT
+"py::test_phase_property" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/108 Testing: py::test_foreign_aid_opens_response_window
+76/108 Test: py::test_foreign_aid_opens_response_window
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_foreign_aid_opens_response_window" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_foreign_aid_opens_response_window" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_foreign_aid_opens_response_window PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_foreign_aid_opens_response_window" end time: Mar 27 15:00 PDT
+"py::test_foreign_aid_opens_response_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/108 Testing: py::test_block_opens_block_response_window
+77/108 Test: py::test_block_opens_block_response_window
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_block_opens_block_response_window" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_block_opens_block_response_window" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_block_opens_block_response_window PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_block_opens_block_response_window" end time: Mar 27 15:00 PDT
+"py::test_block_opens_block_response_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/108 Testing: py::test_exchange_enters_picking_phase
+78/108 Test: py::test_exchange_enters_picking_phase
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_enters_picking_phase" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_enters_picking_phase" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_enters_picking_phase PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_enters_picking_phase" end time: Mar 27 15:00 PDT
+"py::test_exchange_enters_picking_phase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/108 Testing: py::test_exchange_picking_moves_are_exchange_keep
+79/108 Test: py::test_exchange_picking_moves_are_exchange_keep
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_picking_moves_are_exchange_keep" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_picking_moves_are_exchange_keep" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_picking_moves_are_exchange_keep PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_picking_moves_are_exchange_keep" end time: Mar 27 15:00 PDT
+"py::test_exchange_picking_moves_are_exchange_keep" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/108 Testing: py::test_exchange_pool_size
+80/108 Test: py::test_exchange_pool_size
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_pool_size" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_pool_size" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_pool_size PASSED         [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_pool_size" end time: Mar 27 15:00 PDT
+"py::test_exchange_pool_size" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/108 Testing: py::test_exchange_second_pick_excludes_first
+81/108 Test: py::test_exchange_second_pick_excludes_first
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_second_pick_excludes_first" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_second_pick_excludes_first" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_second_pick_excludes_first PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_second_pick_excludes_first" end time: Mar 27 15:00 PDT
+"py::test_exchange_second_pick_excludes_first" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/108 Testing: py::test_exchange_returns_phase_after_all_picks
+82/108 Test: py::test_exchange_returns_phase_after_all_picks
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_returns_phase_after_all_picks" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_returns_phase_after_all_picks" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_returns_phase_after_all_picks PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_returns_phase_after_all_picks" end time: Mar 27 15:00 PDT
+"py::test_exchange_returns_phase_after_all_picks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/108 Testing: py::test_exchange_returning_has_two_moves
+83/108 Test: py::test_exchange_returning_has_two_moves
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_returning_has_two_moves" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_returning_has_two_moves" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_returning_has_two_moves PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_returning_has_two_moves" end time: Mar 27 15:00 PDT
+"py::test_exchange_returning_has_two_moves" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/108 Testing: py::test_exchange_return_advances_to_action_selection
+84/108 Test: py::test_exchange_return_advances_to_action_selection
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_return_advances_to_action_selection" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_return_advances_to_action_selection" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_return_advances_to_action_selection PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_return_advances_to_action_selection" end time: Mar 27 15:00 PDT
+"py::test_exchange_return_advances_to_action_selection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/108 Testing: py::test_pending_action_always_present
+85/108 Test: py::test_pending_action_always_present
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_pending_action_always_present" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_pending_action_always_present" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_pending_action_always_present PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_pending_action_always_present" end time: Mar 27 15:00 PDT
+"py::test_pending_action_always_present" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/108 Testing: py::test_pending_action_actor_minus_one_when_idle
+86/108 Test: py::test_pending_action_actor_minus_one_when_idle
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_pending_action_actor_minus_one_when_idle" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_pending_action_actor_minus_one_when_idle" start time: Mar 27 15:00 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_pending_action_actor_minus_one_when_idle PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_pending_action_actor_minus_one_when_idle" end time: Mar 27 15:01 PDT
+"py::test_pending_action_actor_minus_one_when_idle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/108 Testing: py::test_pending_action_populated_after_tax
+87/108 Test: py::test_pending_action_populated_after_tax
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_pending_action_populated_after_tax" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_pending_action_populated_after_tax" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_pending_action_populated_after_tax PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_pending_action_populated_after_tax" end time: Mar 27 15:01 PDT
+"py::test_pending_action_populated_after_tax" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/108 Testing: py::test_pending_block_none_when_no_block
+88/108 Test: py::test_pending_block_none_when_no_block
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_pending_block_none_when_no_block" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_pending_block_none_when_no_block" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_pending_block_none_when_no_block PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_pending_block_none_when_no_block" end time: Mar 27 15:01 PDT
+"py::test_pending_block_none_when_no_block" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/108 Testing: py::test_pending_block_populated_after_block
+89/108 Test: py::test_pending_block_populated_after_block
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_pending_block_populated_after_block" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_pending_block_populated_after_block" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_pending_block_populated_after_block PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_pending_block_populated_after_block" end time: Mar 27 15:01 PDT
+"py::test_pending_block_populated_after_block" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/108 Testing: py::test_exchange_cards_empty_outside_exchange
+90/108 Test: py::test_exchange_cards_empty_outside_exchange
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_cards_empty_outside_exchange" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_cards_empty_outside_exchange" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_cards_empty_outside_exchange PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_cards_empty_outside_exchange" end time: Mar 27 15:01 PDT
+"py::test_exchange_cards_empty_outside_exchange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/108 Testing: py::test_exchange_cards_populated_during_exchange
+91/108 Test: py::test_exchange_cards_populated_during_exchange
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_exchange_cards_populated_during_exchange" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_exchange_cards_populated_during_exchange" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_exchange_cards_populated_during_exchange PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_exchange_cards_populated_during_exchange" end time: Mar 27 15:01 PDT
+"py::test_exchange_cards_populated_during_exchange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/108 Testing: py::test_player_setup_make
+92/108 Test: py::test_player_setup_make
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_setup_make" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_setup_make" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_setup_make PASSED          [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_setup_make" end time: Mar 27 15:01 PDT
+"py::test_player_setup_make" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/108 Testing: py::test_player_setup_one_down
+93/108 Test: py::test_player_setup_one_down
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_setup_one_down" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_setup_one_down" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_setup_one_down PASSED      [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_setup_one_down" end time: Mar 27 15:01 PDT
+"py::test_player_setup_one_down" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/108 Testing: py::test_player_setup_eliminated
+94/108 Test: py::test_player_setup_eliminated
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_player_setup_eliminated" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_player_setup_eliminated" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_player_setup_eliminated PASSED    [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_player_setup_eliminated" end time: Mar 27 15:01 PDT
+"py::test_player_setup_eliminated" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/108 Testing: py::test_from_setup_basic
+95/108 Test: py::test_from_setup_basic
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_basic" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_basic" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_basic PASSED           [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_basic" end time: Mar 27 15:01 PDT
+"py::test_from_setup_basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/108 Testing: py::test_from_setup_coins_applied
+96/108 Test: py::test_from_setup_coins_applied
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_coins_applied" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_coins_applied" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_coins_applied PASSED   [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_coins_applied" end time: Mar 27 15:01 PDT
+"py::test_from_setup_coins_applied" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/108 Testing: py::test_from_setup_one_down_influence
+97/108 Test: py::test_from_setup_one_down_influence
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_one_down_influence" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_one_down_influence" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_one_down_influence PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_one_down_influence" end time: Mar 27 15:01 PDT
+"py::test_from_setup_one_down_influence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/108 Testing: py::test_from_setup_eliminated_player
+98/108 Test: py::test_from_setup_eliminated_player
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_eliminated_player" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_eliminated_player" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_eliminated_player PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_eliminated_player" end time: Mar 27 15:01 PDT
+"py::test_from_setup_eliminated_player" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/108 Testing: py::test_from_setup_active_player
+99/108 Test: py::test_from_setup_active_player
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_active_player" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_active_player" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_active_player PASSED   [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_active_player" end time: Mar 27 15:01 PDT
+"py::test_from_setup_active_player" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/108 Testing: py::test_from_setup_too_many_copies_raises
+100/108 Test: py::test_from_setup_too_many_copies_raises
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_from_setup_too_many_copies_raises" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_from_setup_too_many_copies_raises" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_from_setup_too_many_copies_raises PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_from_setup_too_many_copies_raises" end time: Mar 27 15:01 PDT
+"py::test_from_setup_too_many_copies_raises" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/108 Testing: py::test_string_methods
+101/108 Test: py::test_string_methods
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_string_methods" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_string_methods" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_string_methods PASSED             [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_string_methods" end time: Mar 27 15:01 PDT
+"py::test_string_methods" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/108 Testing: py::test_game_state_str_contains_player_names
+102/108 Test: py::test_game_state_str_contains_player_names
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_game_state_str_contains_player_names" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_game_state_str_contains_player_names" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_game_state_str_contains_player_names PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_game_state_str_contains_player_names" end time: Mar 27 15:01 PDT
+"py::test_game_state_str_contains_player_names" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/108 Testing: py::test_static_helpers
+103/108 Test: py::test_static_helpers
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_static_helpers" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_static_helpers" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_static_helpers PASSED             [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_static_helpers" end time: Mar 27 15:01 PDT
+"py::test_static_helpers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/108 Testing: py::test_static_helper_values
+104/108 Test: py::test_static_helper_values
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_static_helper_values" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_static_helper_values" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_static_helper_values PASSED       [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_static_helper_values" end time: Mar 27 15:01 PDT
+"py::test_static_helper_values" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/108 Testing: py::test_invalid_player_index
+105/108 Test: py::test_invalid_player_index
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_invalid_player_index" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_invalid_player_index" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_invalid_player_index PASSED       [100%]
+
+============================== 1 passed in 0.04s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_invalid_player_index" end time: Mar 27 15:01 PDT
+"py::test_invalid_player_index" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/108 Testing: py::test_apply_invalid_move_type
+106/108 Test: py::test_apply_invalid_move_type
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_apply_invalid_move_type" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_apply_invalid_move_type" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_apply_invalid_move_type PASSED    [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_apply_invalid_move_type" end time: Mar 27 15:01 PDT
+"py::test_apply_invalid_move_type" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/108 Testing: py::test_apply_move_after_game_over_raises
+107/108 Test: py::test_apply_move_after_game_over_raises
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_apply_move_after_game_over_raises" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_apply_move_after_game_over_raises" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_apply_move_after_game_over_raises PASSED [100%]
+
+============================== 1 passed in 0.02s ===============================
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_apply_move_after_game_over_raises" end time: Mar 27 15:01 PDT
+"py::test_apply_move_after_game_over_raises" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/108 Testing: py::test_coup_without_enough_coins_raises
+108/108 Test: py::test_coup_without_enough_coins_raises
+Command: "/usr/bin/python3.10" "-m" "pytest" "/home/ian/VSCODE/C++/coup/tests/python/test_bindings.py::test_coup_without_enough_coins_raises" "-v" "--tb=short"
+Directory: /home/ian/VSCODE/C++/coup/build
+"py::test_coup_without_enough_coins_raises" start time: Mar 27 15:01 PDT
+Output:
+----------------------------------------------------------
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.2.1, pluggy-1.5.0 -- /usr/bin/python3.10
+cachedir: .pytest_cache
+rootdir: /home/ian/VSCODE/C++/coup
+plugins: cpp-2.5.0, anyio-3.5.0, forked-1.4.0, cov-3.0.0, xdist-2.5.0, sugar-0.9.4
+collecting ... collected 1 item
+
+../tests/python/test_bindings.py::test_coup_without_enough_coins_raises PASSED [100%]
+
+============================== 1 passed in 0.03s ===============================
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"py::test_coup_without_enough_coins_raises" end time: Mar 27 15:01 PDT
+"py::test_coup_without_enough_coins_raises" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 27 15:01 PDT
